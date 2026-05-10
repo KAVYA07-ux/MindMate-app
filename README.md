@@ -23,7 +23,7 @@
 
 | 🏠 Mood Selection | 💜 Mood Insight | 📊 Mood History |
 |:-----------------:|:---------------:|:---------------:|
-| ![Mood Selection](screenshots/mood_selection.png) | ![Mood Insight](screenshots/mood_insight.png) | ![History](screenshots/mood_history.png) |
+| ![Mood Selection](mood_selection.png) | ![Mood Insight](mood_insight.png) | ![History](mood_history.png) |
 | *Pick your current mood* | *AI quote & reflection* | *7-day chart + entries* |
 
 </div>
